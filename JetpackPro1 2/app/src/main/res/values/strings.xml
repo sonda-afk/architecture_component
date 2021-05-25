@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Find Your Movie or Tv Show</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">TITTLE</string>
+    <string name="dateline">DATELINE</string>
+    <string name="movies">MOVIE</string>
+    <string name="tv_show">TV SHOW</string>
+    <string name="status">STATUS</string>
+    <string name="score">SCORE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="content_desc">this is containing description</string>
+</resources>
